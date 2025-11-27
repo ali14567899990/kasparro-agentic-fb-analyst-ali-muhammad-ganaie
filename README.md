@@ -1,85 +1,106 @@
-# AI Agent System for Marketing Analytics Insights
+Kasparro Agentic Facebook Ads Performance Analyst — AI Agent System
+Project Overview
 
-## Project Introduction
-This project implements an AI-powered agent system designed to analyze marketing and sales data and provide actionable insights. The system can handle queries such as identifying ROAS drops, analyzing trends, and generating creative recommendations. By leveraging multiple agents specialized for different tasks, the project demonstrates a modular and scalable architecture suitable for marketing analytics applications.
+This project implements a multi-agent AI system for marketing analytics, designed to autonomously analyze Facebook Ads performance, identify reasons for ROAS fluctuations, and recommend new creative strategies. The system demonstrates a modular, scalable architecture with specialized agents for planning, data processing, insight generation, evaluation, and creative improvement.
 
-## Data Description
-The project uses historical marketing and sales datasets stored in the `data/` folder. The datasets include:
+Objective
 
-- **Ad performance data:** Metrics such as impressions, clicks, conversions, cost, and revenue.
-- **Campaign metadata:** Information about ad campaigns, platforms, and targeting parameters.
-- **Date range:** Data includes a time series of daily metrics for analysis.
+The system is capable of:
 
-All datasets are expected to be in CSV format. The system can be extended to handle multiple campaigns and additional marketing channels.
+Diagnosing ROAS changes over time.
 
-## Agent-System Architecture
-The system follows a modular agent-based design. Each agent has a specialized role:
+Identifying drivers behind performance fluctuations (e.g., audience fatigue, creative underperformance).
 
-- **Planner Agent (`planner.py`):** Generates a step-by-step plan for analyzing a given query.
-- **Data Agent (`data_agent.py`):** Handles data retrieval, cleaning, and preprocessing.
-- **Insight Agent (`insight_agent.py`):** Analyzes trends and patterns from the processed data.
-- **Evaluator Agent (`evaluator.py`):** Evaluates the quality and relevance of insights generated.
-- **Creative Generator Agent (`creative_generator.py`):** Produces recommendations and creative suggestions based on insights.
+Proposing actionable creative ideas (headlines, messages, CTAs) for low-CTR campaigns, grounded in historical dataset insights.
 
-The `run.py` script orchestrates the workflow, taking user queries as input and coordinating the agents to produce a structured report.
+Data Description
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+The project uses synthetic eCommerce and Facebook Ads datasets stored in the data/ folder. Key columns include:
+
+campaign_name, adset_name, date, spend, impressions, clicks, ctr, purchases, revenue, roas, creative_type, creative_message, audience_type, platform, country.
+
+Data includes both ad performance metrics and campaign metadata. Sample datasets are provided for reproducibility.
 
 
+Agent System Architecture
 
+The system follows a modular agent-based design:
+
+Agent	Role
+Planner Agent (planner.py)--->	Decomposes queries into actionable subtasks.
+Data Agent (data_agent.py)	-->   Loads, cleans, and summarizes datasets.
+Insight Agent (insight_agent.py)--->	Generates hypotheses explaining observed patterns.
+Evaluator Agent (evaluator.py)--->	Quantitatively validates hypotheses and assigns confidence scores.
+Creative Generator Agent (creative_generator.py)--->	Suggests new creative strategies for low-performing campaigns.
+
+The run.py script orchestrates agent interactions, taking user queries as input and producing structured reports.
+
+How to Run
+
+Clone the repository:
+
+git clone <repository-url>
+cd kasparro-agentic-fb-analyst-<firstname-lastname>
 
 Install dependencies:
 
 pip install -r requirements.txt
 
-
 Run the system with a query:
 
 python src/run.py "Analyze ROAS drop in last 14 days"
 
-
-The output report will be generated in the Reports/ folder.
-
-Example Output
-
-For the query "Analyze ROAS drop in last 14 days", the system produces a report containing:
+Output: Generated reports are saved in the reports/ folder. This includes:
 
 Step-by-step analysis plan
 
-Key data insights
-
-Identified trends and anomalies
+Key insights and trends
 
 Recommendations to improve ROAS
 
-Visualizations (if applicable)
+Example visualizations (if applicable)
 
-Example snippet:
 
-ROAS Analysis (Last 14 Days):
-- Observed a 15% drop in ROAS on social media campaigns.
-- High-performing ads are those targeting audiences aged 25-34.
-- Recommendation: Increase budget for high-performing ad sets and adjust targeting.
+Example Output
+
+Query: "Analyze ROAS drop in last 14 days"
+
+Sample Insight:
+
+Observed a 15% ROAS drop on social media campaigns.
+
+High-performing ads target audiences aged 25–34.
+
+Recommendation: Increase budget for high-performing ad sets and refine targeting for low-performing segments.
 
 Folder Structure
-project-root/
-│
-├─ data/                   # Raw and processed datasets
-├─ logs/                   # Logs generated during execution
-├─ prompts/                # Prompt templates for AI agents
-├─ Reports/                # Generated reports
-├─ src/
-│   ├─ agents/
-│   │   ├─ planner.py
-│   │   ├─ data_agent.py
-│   │   ├─ insight_agent.py
-│   │   ├─ evaluator.py
-│   │   └─ creative_generator.py
-│   ├─ run.py               # Main script to execute the project
-│   └─ utils.py             # Utility functions
-├─ requirements.txt         # Python dependencies
-└─ README.md                # Project documentation
+
+kasparro-agentic-fb-analyst-ali-muhammad-ganaie/ – This is main project folder. Everything related to the project goes inside this.
+
+data/ – This folder contains all  datasets, both raw and processed. Think of it as the project’s “data warehouse.”
+
+logs/ – Any logs generated during execution, like errors or activity logs, are saved here. Useful for debugging.
+
+prompts/ – Stores prompt templates for  AI agents. Basically, the “instructions” you give to your AI scripts.
+
+
+
+reports/ – Any generated reports, insights, or results from  project will go here.
+
+src/ – This is where all  source code lives. It’s divided into:
+
+agents/ – Scripts for AI agents, like planner.py, data_agent.py, and insight_agent.py. These are the main components of AI workflow.
+
+orchestrator/ – Scripts that manage and coordinate  agents. For example, main_orchestrator.py controls how everything runs together.
+
+utils/ – Helper functions or utilities that  code uses repeatedly, like helpers.py.
+
+
+
+tests/ – Unit tests to make sure  code works correctly.
+
+config/ – Configuration files, like settings, parameters, or environment variables.
+
+README.md – A project overview. Explains what  project does, how to run it, and any other important details.
+
+requirements.txt – Lists all Python dependencies  project needs, so anyone can set up the environment quickly
