@@ -1,0 +1,12 @@
+data_csv: "data/synthetic_fb_ads_undergarments.csv"
+
+reports_dir: "reports"
+logs_dir: "logs"
+
+low_ctr_threshold: 0.02
+confidence_threshold: 0.7
+
+tasks:
+  - analyze_roas
+  - analyze_ctr
+  - analyze_creatives

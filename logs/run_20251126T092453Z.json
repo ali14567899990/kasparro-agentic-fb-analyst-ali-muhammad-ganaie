@@ -1,0 +1,42 @@
+{
+  "run_id": "20251126T092453Z",
+  "query": "Analyze ROAS drop in last 14 days",
+  "steps": [
+    {
+      "planner": [
+        "task1",
+        "task2"
+      ]
+    },
+    {
+      "data_summary": {
+        "summary": "stub"
+      }
+    },
+    {
+      "hypotheses_unvalidated": [
+        {
+          "title": "hypothesis1",
+          "confidence": 0.5,
+          "evidence_summary": "stub"
+        }
+      ]
+    },
+    {
+      "validated_hypotheses": [
+        {
+          "title": "hypothesis1",
+          "confidence": 0.5,
+          "evidence_summary": "stub"
+        }
+      ]
+    },
+    {
+      "creatives": [
+        {
+          "suggestion": "Use more blue"
+        }
+      ]
+    }
+  ]
+}

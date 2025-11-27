@@ -1,0 +1,14 @@
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+pyyaml>=6.0
+pytest>=7.0
+jsonschema>=4.0
+
+
+pandas
+pyyaml
+numpy
+matplotlib
+scikit-learn
+openai
