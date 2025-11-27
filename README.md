@@ -1,25 +1,19 @@
 Kasparro Agentic Facebook Ads Performance Analyst — AI Agent System
-Project Overview
+The Multi-Agent Marketing Analytics System is an advanced AI-driven solution engineered to autonomously diagnose and optimize Facebook Ads performance. This project integrates multiple specialized agents that collaborate to deliver a comprehensive end-to-end analytics workflow. Its primary purpose is to monitor campaign trends, interpret fluctuations in Return on Ad Spend (ROAS), and uncover the underlying factors influencing these changes—whether related to audience behavior, creative fatigue, targeting inconsistencies, or shifts in market dynamics.
 
-This project implements a multi-agent AI system for marketing analytics, designed to autonomously analyze Facebook Ads performance, identify reasons for ROAS fluctuations, and recommend new creative strategies. The system demonstrates a modular, scalable architecture with specialized agents for planning, data processing, insight generation, evaluation, and creative improvement.
+Built with a modular and scalable architecture, the system ensures clean separation of responsibilities across different agents, enabling efficient planning, structured data processing, insightful performance interpretation, robust evaluation, and intelligent creative recommendation generation. Each agent functions independently yet coordinates seamlessly through a centralized orchestrator, reflecting industry-grade agentic AI design principles.
 
+In addition to diagnosing performance decline or growth, the system intelligently generates tailored creative recommendations—such as improved headlines, messaging angles, and call-to-action variations—grounded in historical dataset insights. This makes the system not only analytical but also prescriptive, delivering actionable strategies for improving ad engagement and boosting overall marketing ROI. By automating complex ad-diagnosis tasks, the project showcases how agentic AI can significantly enhance digital marketing decision-making and support scalable, data-backed creative optimization
 Objective
-
-The system is capable of:
-
-Diagnosing ROAS changes over time.
-
-Identifying drivers behind performance fluctuations (e.g., audience fatigue, creative underperformance).
-
-Proposing actionable creative ideas (headlines, messages, CTAs) for low-CTR campaigns, grounded in historical dataset insights.
+The objective of this system is to provide a comprehensive analysis and optimization framework for Facebook ad performance. It is designed to diagnose changes in Return on Ad Spend (ROAS) over time and detect patterns or anomalies in campaign behavior. By identifying key drivers behind performance fluctuations—such as audience fatigue, declining engagement, or underperforming creatives—the system helps advertisers understand the root causes of inefficiencies. Additionally, it generates actionable creative recommendations tailored to campaigns with low click-through rates (CTR), offering improved headlines, messaging angles, and call-to-action variations. These suggestions are grounded in insights extracted from historical campaign data, ensuring that the advice is data-backed, relevant, and directly aligned with improving overall ad effectiveness.
 
 Data Description
 
-The project uses synthetic eCommerce and Facebook Ads datasets stored in the data/ folder. Key columns include:
+(1)The project uses synthetic eCommerce and Facebook Ads datasets stored in the data/ folder. Key columns include:
 
-campaign_name, adset_name, date, spend, impressions, clicks, ctr, purchases, revenue, roas, creative_type, creative_message, audience_type, platform, country.
+(2)campaign_name, adset_name, date, spend, impressions, clicks, ctr, purchases, revenue, roas, creative_type, creative_message, audience_type, platform, country.
 
-Data includes both ad performance metrics and campaign metadata. Sample datasets are provided for reproducibility.
+(3)Data includes both ad performance metrics and campaign metadata. Sample datasets are provided for reproducibility.
 
 
 Agent System Architecture
