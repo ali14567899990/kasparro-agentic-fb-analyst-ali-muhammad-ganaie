@@ -25,9 +25,13 @@ The system follows a modular agent-based design:
 
 Agent	Role
 Planner Agent (planner.py)--->	Decomposes queries into actionable subtasks.
+
 Data Agent (data_agent.py)	-->   Loads, cleans, and summarizes datasets.
+
 Insight Agent (insight_agent.py)--->	Generates hypotheses explaining observed patterns.
+
 Evaluator Agent (evaluator.py)--->	Quantitatively validates hypotheses and assigns confidence scores.
+
 Creative Generator Agent (creative_generator.py)--->	Suggests new creative strategies for low-performing campaigns.
 
 The run.py script orchestrates agent interactions, taking user queries as input and producing structured reports.
