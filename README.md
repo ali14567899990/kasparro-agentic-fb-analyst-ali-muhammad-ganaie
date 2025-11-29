@@ -98,33 +98,44 @@ Low CTR in campaign Women-Studio Sports (confidence: 0.72)
 
 Project Folder Structure
 
-kasparro-agentic-fb-analyst-ali-muhammad-ganaie/     # Main project folder
+kasparro-agentic-fb-analyst-ali-muhammad-ganaie/        # Main project folder
+
 │
-├── data/                     # Datasets (raw + processed)
+├── data/                                               # Datasets (raw + processed)
+
 │
-├── logs/                     # Execution logs for debugging & observability
+├── logs/                                               # Execution logs for debugging & observability
+
 │
-├── prompts/                  # Prompt templates for AI agents
+├── prompts/                                            # Prompt templates for AI agents
+
+
 │
-├── reports/                  # Auto-generated analytical reports + insights
+├── reports/                                            # Auto-generated analytical reports & insights
+
+
 │
-├── src/                      # Source code
-│   ├── agents/               # All autonomous agents
+├── src/                                                # Source code
+
+│   ├── agents/                                         # All autonomous agents
 │   │   ├── planner.py
 │   │   ├── data_agent.py
 │   │   ├── insight_agent.py
 │   │   ├── evaluator.py
 │   │   └── creative_generator.py
 │   │
-│   ├── orchestrator/         # Central controller connecting all agents
+│   ├── orchestrator/                                   # Central controller coordinating all agents
 │   │   └── main_orchestrator.py
 │   │
-│   └── utils/                # Utility functions (logging, helpers, retry logic)
-│       └── helpers.py
-│
-├── config/                   # Configuration files (settings, parameters)
-│
-├── README.md                 # Project documentation (this file)
-│
-└── requirements.txt          # Python dependency list
+│   └── utils/                                          # Utility functions (logging, helpers, retry logic)
 
+│       └── helpers.py
+
+
+│
+├── config/                                             # Configuration files (settings, parameters)
+
+│
+├── README.md                                           # Project documentation
+│
+└── requirements.txt                                     # Python dependencies list
