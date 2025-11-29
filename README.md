@@ -119,9 +119,13 @@ kasparro-agentic-fb-analyst-ali-muhammad-ganaie/        # Main project folder
 
 │   ├── agents/                                         # All autonomous agents
 │   │   ├── planner.py
+
 │   │   ├── data_agent.py
+
 │   │   ├── insight_agent.py
+
 │   │   ├── evaluator.py
+
 │   │   └── creative_generator.py
 │   │
 │   ├── orchestrator/                                   # Central controller coordinating all agents
