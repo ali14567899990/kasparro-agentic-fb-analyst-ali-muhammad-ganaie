@@ -99,47 +99,26 @@ Low CTR in campaign Women-Studio Sports (confidence: 0.72)
 Project Folder Structure
 
 kasparro-agentic-fb-analyst-ali-muhammad-ganaie/        # Main project folder
+data/ – Stores all datasets, including raw, cleaned, and processed files used by the agents.
 
-│
-├── data/                                               # Datasets (raw + processed)
+logs/ – Contains execution logs for debugging, observability, and tracing agent workflows.
 
-│
-├── logs/                                               # Execution logs for debugging & observability
+prompts/ – Holds prompt templates for all autonomous agents.
 
-│
-├── prompts/                                            # Prompt templates for AI agents
+reports/ – Includes generated performance analyses, insights, and final reports.
 
+state/ – Maintains saved pipeline state, checkpoints, and recovery data for resuming executions.
 
-│
-├── reports/                                            # Auto-generated analytical reports & insights
+src/ – Main source code directory containing the core logic of the system.
 
+src/agents/ – Implements autonomous agents (planner, data agent, insight agent, evaluator, creative generator).
 
-│
-├── src/                                                # Source code
+src/orchestrator/ – Coordinates agent interactions and manages workflow execution.
 
-│   ├── agents/                                         # All autonomous agents
-│   │   ├── planner.py
+src/utils/ – Provides helper utilities, retry logic, logging helpers, and shared tools.
 
-│   │   ├── data_agent.py
+config/ – System configuration files, environment settings, and parameter definitions.
 
-│   │   ├── insight_agent.py
+README.md – Project overview, documentation, and setup instructions.
 
-│   │   ├── evaluator.py
-
-│   │   └── creative_generator.py
-│   │
-│   ├── orchestrator/                                   # Central controller coordinating all agents
-│   │   └── main_orchestrator.py
-│   │
-│   └── utils/                                          # Utility functions (logging, helpers, retry logic)
-
-│       └── helpers.py
-
-
-│
-├── config/                                             # Configuration files (settings, parameters)
-
-│
-├── README.md                                           # Project documentation
-│
-└── requirements.txt                                     # Python dependencies list
+requirements.txt – Python dependency list required to run the project.
