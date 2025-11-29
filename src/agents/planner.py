@@ -1,9 +1,15 @@
+
+
+from src.utils import get_logger
+
 class PlannerAgent:
     def __init__(self):
-        pass
+        self.logger = get_logger("PlannerAgent")
 
     def plan(self, query: str):
         query = query.lower()
+        self.logger.info(f"Planning tasks for query: {query}")
+
         tasks = []
 
         if "roas" in query:
@@ -13,5 +19,5 @@ class PlannerAgent:
         if "creative" in query:
             tasks.append("analyze_creatives")
 
-        print(f"Planning for query: {query}")
+        self.logger.info(f"Planned tasks: {tasks}")
         return tasks

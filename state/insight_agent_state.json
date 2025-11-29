@@ -1,5 +1,10 @@
 [
   {
+    "title": "Low ROAS in campaign Men Comfortmax Launch",
+    "evidence_summary": "ROAS=0.66, Spend=362.78",
+    "confidence": 0.534359807590915
+  },
+  {
     "title": "Low ROAS in campaign Men_ComfortMax_Launch",
     "evidence_summary": "ROAS=0.31, Spend=575.27",
     "confidence": 0.7739100687338636
@@ -25,9 +30,29 @@
     "confidence": 0.8625196595419611
   },
   {
+    "title": "Low ROAS in campaign MEN COMFORTMAX LAUNCH",
+    "evidence_summary": "ROAS=0.56, Spend=751.5",
+    "confidence": 0.6934458444487003
+  },
+  {
     "title": "Low ROAS in campaign Men ComfortMax Launch",
     "evidence_summary": "ROAS=0.79, Spend=278.31",
     "confidence": 0.8194039296280617
+  },
+  {
+    "title": "Low ROAS in campaign Men  ComfortMax  Launch",
+    "evidence_summary": "ROAS=0.24, Spend=520.75",
+    "confidence": 0.625116672499486
+  },
+  {
+    "title": "Low ROAS in campaign Men  ComfortMax  Launch",
+    "evidence_summary": "ROAS=0.28, Spend=307.34",
+    "confidence": 0.6996909155719516
+  },
+  {
+    "title": "Low ROAS in campaign Men Comfortmax Launch",
+    "evidence_summary": "ROAS=0.00, Spend=365.89",
+    "confidence": 0.553678917210829
   },
   {
     "title": "Low ROAS in campaign Men_ComfortMax_Launch",
@@ -45,9 +70,19 @@
     "confidence": 0.9190673546827886
   },
   {
+    "title": "Low ROAS in campaign MEN COMFORTMAX LAUNCH",
+    "evidence_summary": "ROAS=0.91, Spend=521.84",
+    "confidence": 0.6777150559341351
+  },
+  {
     "title": "Low ROAS in campaign Men Comfortmax Launch",
     "evidence_summary": "ROAS=0.49, Spend=1082.82",
     "confidence": 0.8962572952921489
+  },
+  {
+    "title": "Low ROAS in campaign Men ComfortMax Launch",
+    "evidence_summary": "ROAS=0.81, Spend=632.73",
+    "confidence": 0.5663601289088587
   },
   {
     "title": "Low ROAS in campaign Men ComfortMax Launch",
@@ -75,6 +110,11 @@
     "confidence": 0.9383869234473695
   },
   {
+    "title": "Low ROAS in campaign Men Comfortmax Launch",
+    "evidence_summary": "ROAS=0.30, Spend=968.81",
+    "confidence": 0.5139010557245062
+  },
+  {
     "title": "Low ROAS in campaign Men ComfortMax Launch",
     "evidence_summary": "ROAS=0.81, Spend=464.62",
     "confidence": 0.9084614378854557
@@ -95,6 +135,11 @@
     "confidence": 0.8296646340620433
   },
   {
+    "title": "Low ROAS in campaign Men Comfortmax Launch",
+    "evidence_summary": "ROAS=0.00, Spend=746.93",
+    "confidence": 0.5139103314359507
+  },
+  {
     "title": "Low ROAS in campaign Men ComfortMax Launch",
     "evidence_summary": "ROAS=0.73, Spend=358.63",
     "confidence": 0.8181003181908711
@@ -103,6 +148,11 @@
     "title": "Low ROAS in campaign WOMEN Seamless Everyday",
     "evidence_summary": "ROAS=0.81, Spend=553.79",
     "confidence": 0.7101575556707915
+  },
+  {
+    "title": "Low ROAS in campaign women seamless everyday",
+    "evidence_summary": "ROAS=0.73, Spend=195.66",
+    "confidence": 0.5885757036783569
   },
   {
     "title": "Low ROAS in campaign WOMEN Seamless Everyday",
@@ -120,6 +170,11 @@
     "confidence": 0.8125847349928504
   },
   {
+    "title": "Low ROAS in campaign women seamless everyday",
+    "evidence_summary": "ROAS=0.22, Spend=536.45",
+    "confidence": 0.6945345744409448
+  },
+  {
     "title": "Low ROAS in campaign WOMEN Seamless Everyday",
     "evidence_summary": "ROAS=0.89, Spend=1066.69",
     "confidence": 0.8094372032026054
@@ -128,6 +183,21 @@
     "title": "Low ROAS in campaign WOMEN Seamless Everyday",
     "evidence_summary": "ROAS=0.72, Spend=755.09",
     "confidence": 0.8211110988256752
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Seamless Everyday",
+    "evidence_summary": "ROAS=0.30, Spend=909.45",
+    "confidence": 0.6587387206897022
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Seamless Everyday",
+    "evidence_summary": "ROAS=0.50, Spend=727.11",
+    "confidence": 0.5074320352075994
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Seamless Everyday",
+    "evidence_summary": "ROAS=0.51, Spend=509.27",
+    "confidence": 0.5278152714855802
   },
   {
     "title": "Low ROAS in campaign WOMEN_Seamless_Everyday",
@@ -155,6 +225,11 @@
     "confidence": 0.8395217881751162
   },
   {
+    "title": "Low ROAS in campaign WOMEN_Seamless_Everyday",
+    "evidence_summary": "ROAS=0.18, Spend=352.14",
+    "confidence": 0.5872857261588634
+  },
+  {
     "title": "Low ROAS in campaign WOMEN  Seamless  Everyday",
     "evidence_summary": "ROAS=0.77, Spend=730.98",
     "confidence": 0.7464417019943249
@@ -180,9 +255,29 @@
     "confidence": 0.764814717308665
   },
   {
+    "title": "Low ROAS in campaign WOMEN Seamless Everyday",
+    "evidence_summary": "ROAS=0.50, Spend=414.56",
+    "confidence": 0.5654963822634095
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Seamless Everyday",
+    "evidence_summary": "ROAS=0.26, Spend=592.23",
+    "confidence": 0.5429372748787923
+  },
+  {
     "title": "Low ROAS in campaign Women Seamless Everyday",
     "evidence_summary": "ROAS=0.85, Spend=490.28",
     "confidence": 0.790962929267891
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN_Seamless_Everyday",
+    "evidence_summary": "ROAS=0.67, Spend=757.01",
+    "confidence": 0.6729867779225789
+  },
+  {
+    "title": "Low ROAS in campaign Women Seamless Everyday",
+    "evidence_summary": "ROAS=0.29, Spend=392.81",
+    "confidence": 0.6724686643458293
   },
   {
     "title": "Low ROAS in campaign WOMEN Seamless Everyday",
@@ -195,9 +290,19 @@
     "confidence": 0.8104288956208943
   },
   {
+    "title": "Low ROAS in campaign Men | Athleisure Cooling",
+    "evidence_summary": "ROAS=0.74, Spend=851.52",
+    "confidence": 0.5194772159563306
+  },
+  {
     "title": "Low ROAS in campaign m n | athleisure cooling",
     "evidence_summary": "ROAS=0.00, Spend=142.11",
     "confidence": 0.941143187355983
+  },
+  {
+    "title": "Low ROAS in campaign men | athleisure cooling",
+    "evidence_summary": "ROAS=0.00, Spend=159.21",
+    "confidence": 0.6233320530742377
   },
   {
     "title": "Low ROAS in campaign Men-Athleisure Cooling",
@@ -208,6 +313,16 @@
     "title": "Low ROAS in campaign men | athleisure cooling",
     "evidence_summary": "ROAS=0.22, Spend=480.21",
     "confidence": 0.8274174080673672
+  },
+  {
+    "title": "Low ROAS in campaign MEN | ATHLEISURE COOLING",
+    "evidence_summary": "ROAS=0.48, Spend=537.31",
+    "confidence": 0.5504219181196409
+  },
+  {
+    "title": "Low ROAS in campaign men | athleisure cooling",
+    "evidence_summary": "ROAS=0.00, Spend=215.37",
+    "confidence": 0.5322281784584059
   },
   {
     "title": "Low ROAS in campaign MEN | ATHLEISURE COOLING",
@@ -225,9 +340,24 @@
     "confidence": 0.764568855336365
   },
   {
+    "title": "Low ROAS in campaign Men | Athleisure Cooling",
+    "evidence_summary": "ROAS=0.87, Spend=747.81",
+    "confidence": 0.6955743282036047
+  },
+  {
+    "title": "Low ROAS in campaign Men  |  Athleisure  Cooling",
+    "evidence_summary": "ROAS=0.96, Spend=673.57",
+    "confidence": 0.66108116597128
+  },
+  {
     "title": "Low ROAS in campaign women Summer Invi-ible",
     "evidence_summary": "ROAS=0.66, Spend=751.71",
     "confidence": 0.7415848680876984
+  },
+  {
+    "title": "Low ROAS in campaign women_Summer_Invisible",
+    "evidence_summary": "ROAS=0.57, Spend=263.74",
+    "confidence": 0.5752022134632726
   },
   {
     "title": "Low ROAS in campaign WOMEN SUMMER INVISIBLE",
@@ -245,9 +375,24 @@
     "confidence": 0.8324185829859783
   },
   {
+    "title": "Low ROAS in campaign women summer invisible",
+    "evidence_summary": "ROAS=0.69, Spend=295.44",
+    "confidence": 0.5252538265234188
+  },
+  {
     "title": "Low ROAS in campaign women Summer Invisible",
     "evidence_summary": "ROAS=0.36, Spend=244.71",
     "confidence": 0.722647874579335
+  },
+  {
+    "title": "Low ROAS in campaign women_Summer_Invisible",
+    "evidence_summary": "ROAS=0.19, Spend=701.94",
+    "confidence": 0.6537124880925244
+  },
+  {
+    "title": "Low ROAS in campaign women Summer Invisible",
+    "evidence_summary": "ROAS=0.67, Spend=1329.15",
+    "confidence": 0.6900063827420774
   },
   {
     "title": "Low ROAS in campaign women  Summer  Invisible",
@@ -256,13 +401,28 @@
   },
   {
     "title": "Low ROAS in campaign women Summer Invisible",
+    "evidence_summary": "ROAS=0.92, Spend=642.72",
+    "confidence": 0.5963611836168872
+  },
+  {
+    "title": "Low ROAS in campaign women Summer Invisible",
     "evidence_summary": "ROAS=0.99, Spend=277.94",
     "confidence": 0.7621474816241927
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN SUMMER INVSIBLE",
+    "evidence_summary": "ROAS=0.44, Spend=459.81",
+    "confidence": 0.6973586941677499
   },
   {
     "title": "Low ROAS in campaign women summer invisible",
     "evidence_summary": "ROAS=0.89, Spend=422.39",
     "confidence": 0.7165811584177059
+  },
+  {
+    "title": "Low ROAS in campaign women_Summer_Invisible",
+    "evidence_summary": "ROAS=0.56, Spend=823.63",
+    "confidence": 0.6700942396487983
   },
   {
     "title": "Low ROAS in campaign Women Summer Invisible",
@@ -275,6 +435,16 @@
     "confidence": 0.8794627054627056
   },
   {
+    "title": "Low ROAS in campaign women Summer In isible",
+    "evidence_summary": "ROAS=0.33, Spend=563.04",
+    "confidence": 0.5598479478004209
+  },
+  {
+    "title": "Low ROAS in campaign women Summer Invisible",
+    "evidence_summary": "ROAS=0.80, Spend=1061.9",
+    "confidence": 0.5292461826262467
+  },
+  {
     "title": "Low ROAS in campaign women Summer Invisible",
     "evidence_summary": "ROAS=0.41, Spend=757.02",
     "confidence": 0.7255656817326663
@@ -283,6 +453,11 @@
     "title": "Low ROAS in campaign women summer invisible",
     "evidence_summary": "ROAS=0.83, Spend=544.34",
     "confidence": 0.944530372988392
+  },
+  {
+    "title": "Low ROAS in campaign women_Summer_Inisible",
+    "evidence_summary": "ROAS=0.53, Spend=471.28",
+    "confidence": 0.6885271563466622
   },
   {
     "title": "Low ROAS in campaign women Summer Invisible",
@@ -295,9 +470,39 @@
     "confidence": 0.7466395195975198
   },
   {
+    "title": "Low ROAS in campaign Women Summer Invisible",
+    "evidence_summary": "ROAS=0.61, Spend=954.75",
+    "confidence": 0.6905049993322565
+  },
+  {
+    "title": "Low ROAS in campaign women Summer Invisible",
+    "evidence_summary": "ROAS=0.40, Spend=571.57",
+    "confidence": 0.5015192690263909
+  },
+  {
+    "title": "Low ROAS in campaign women Summer Invisible",
+    "evidence_summary": "ROAS=0.25, Spend=572.03",
+    "confidence": 0.6489817127217823
+  },
+  {
+    "title": "Low ROAS in campaign Women Summer Invisible",
+    "evidence_summary": "ROAS=0.19, Spend=975.79",
+    "confidence": 0.540405810544354
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN SUMMER INVISIBLE",
+    "evidence_summary": "ROAS=0.10, Spend=875.06",
+    "confidence": 0.5677305766783735
+  },
+  {
     "title": "Low ROAS in campaign women summer invisible",
     "evidence_summary": "ROAS=0.39, Spend=583.34",
     "confidence": 0.9265405076025893
+  },
+  {
+    "title": "Low ROAS in campaign Women Summ-r Invisible",
+    "evidence_summary": "ROAS=0.55, Spend=401.36",
+    "confidence": 0.6115929312106336
   },
   {
     "title": "Low ROAS in campaign women Summer Invisible",
@@ -310,6 +515,11 @@
     "confidence": 0.7050953159584754
   },
   {
+    "title": "Low ROAS in campaign Women Summer Invisible",
+    "evidence_summary": "ROAS=0.59, Spend=466.19",
+    "confidence": 0.6988602900611395
+  },
+  {
     "title": "Low ROAS in campaign women_Summer_Invisible",
     "evidence_summary": "ROAS=0.83, Spend=323.87",
     "confidence": 0.7039574513686815
@@ -320,9 +530,24 @@
     "confidence": 0.8381929275594
   },
   {
+    "title": "Low ROAS in campaign women_Summer_Invisible",
+    "evidence_summary": "ROAS=0.34, Spend=714.48",
+    "confidence": 0.6820460673736175
+  },
+  {
     "title": "Low ROAS in campaign women summer invisible",
     "evidence_summary": "ROAS=0.50, Spend=240.66",
     "confidence": 0.7031010197841239
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN SUMMER INVISIBLE",
+    "evidence_summary": "ROAS=0.00, Spend=394.47",
+    "confidence": 0.6021086078407563
+  },
+  {
+    "title": "Low ROAS in campaign women summer invisible",
+    "evidence_summary": "ROAS=0.34, Spend=591.81",
+    "confidence": 0.6048585825381143
   },
   {
     "title": "Low ROAS in campaign women Summer Invisible",
@@ -330,9 +555,19 @@
     "confidence": 0.8111010401069246
   },
   {
+    "title": "Low ROAS in campaign Women Summer Invisible",
+    "evidence_summary": "ROAS=0.19, Spend=492.96",
+    "confidence": 0.5284278923985976
+  },
+  {
     "title": "Low ROAS in campaign women Summer Invisible",
     "evidence_summary": "ROAS=0.58, Spend=303.69",
     "confidence": 0.9286483381019668
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signatu e Soft",
+    "evidence_summary": "ROAS=0.49, Spend=895.0",
+    "confidence": 0.5734105488572461
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -341,8 +576,28 @@
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.46, Spend=1232.89",
+    "confidence": 0.5630744390915156
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.64, Spend=418.44",
+    "confidence": 0.6496423025353386
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.11, Spend=652.95",
     "confidence": 0.8573393887723103
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.86, Spend=914.4",
+    "confidence": 0.6286974101875785
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.76, Spend=720.58",
+    "confidence": 0.5650560531578445
   },
   {
     "title": "Low ROAS in campaign MEN Sign-ture Soft",
@@ -350,14 +605,34 @@
     "confidence": 0.7360159979594749
   },
   {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.15, Spend=995.92",
+    "confidence": 0.5794075285793623
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.49, Spend=676.31",
+    "confidence": 0.5712980788545023
+  },
+  {
     "title": "Low ROAS in campaign MEN  Signature  Soft",
     "evidence_summary": "ROAS=0.56, Spend=717.72",
     "confidence": 0.829815529216501
   },
   {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.62, Spend=1073.89",
+    "confidence": 0.6588981188615364
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.39, Spend=624.67",
     "confidence": 0.7493694355006377
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.92, Spend=780.96",
+    "confidence": 0.5364966666964053
   },
   {
     "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
@@ -370,6 +645,26 @@
     "confidence": 0.9080979554749626
   },
   {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.39, Spend=647.19",
+    "confidence": 0.5828032555151131
+  },
+  {
+    "title": "Low ROAS in campaign MEN_Signature_Soft",
+    "evidence_summary": "ROAS=0.90, Spend=245.23",
+    "confidence": 0.5165722876122084
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.85, Spend=150.21",
+    "confidence": 0.6417815858830733
+  },
+  {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.85, Spend=376.19",
+    "confidence": 0.6111409482555278
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.29, Spend=398.35",
     "confidence": 0.8882710773685549
@@ -380,14 +675,49 @@
     "confidence": 0.7872659993301239
   },
   {
+    "title": "Low ROAS in campaign Men Signature Soft",
+    "evidence_summary": "ROAS=0.50, Spend=884.84",
+    "confidence": 0.5322392219843217
+  },
+  {
+    "title": "Low ROAS in campaign MEN_Signature_Soft",
+    "evidence_summary": "ROAS=0.43, Spend=937.68",
+    "confidence": 0.5249851282676906
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.55, Spend=434.54",
     "confidence": 0.7753611662377811
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.21, Spend=846.89",
+    "confidence": 0.5820742025508431
+  },
+  {
+    "title": "Low ROAS in campaign Men Signature Soft",
+    "evidence_summary": "ROAS=0.34, Spend=774.99",
+    "confidence": 0.6545792988544273
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.94, Spend=399.78",
     "confidence": 0.7740928568904208
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.74, Spend=951.96",
+    "confidence": 0.6963310888402124
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.48, Spend=851.28",
+    "confidence": 0.6970624937337735
+  },
+  {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.44, Spend=87.33",
+    "confidence": 0.5862985066900068
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -400,9 +730,19 @@
     "confidence": 0.8910107771850799
   },
   {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.23, Spend=701.5",
+    "confidence": 0.580643283918719
+  },
+  {
     "title": "Low ROAS in campaign men signature soft",
     "evidence_summary": "ROAS=0.14, Spend=405.91",
     "confidence": 0.9395329834007151
+  },
+  {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.33, Spend=600.55",
+    "confidence": 0.650011696775159
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -416,13 +756,43 @@
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.92, Spend=782.19",
+    "confidence": 0.6688931527292943
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.54, Spend=702.84",
     "confidence": 0.7618215932474302
+  },
+  {
+    "title": "Low ROAS in campaign Men Signature Soft",
+    "evidence_summary": "ROAS=0.38, Spend=303.19",
+    "confidence": 0.5169252783489965
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.39, Spend=333.04",
     "confidence": 0.9278067773573977
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.29, Spend=853.4",
+    "confidence": 0.5926394304561106
+  },
+  {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.42, Spend=763.88",
+    "confidence": 0.5528982605263599
+  },
+  {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.65, Spend=288.66",
+    "confidence": 0.5707887914565553
+  },
+  {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.87, Spend=869.64",
+    "confidence": 0.6726899935340565
   },
   {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
@@ -435,6 +805,11 @@
     "confidence": 0.7883736874797228
   },
   {
+    "title": "Low ROAS in campaign MEN Signatue Soft",
+    "evidence_summary": "ROAS=0.93, Spend=891.09",
+    "confidence": 0.5440510522220525
+  },
+  {
     "title": "Low ROAS in campaign MEN  Signature  Soft",
     "evidence_summary": "ROAS=0.56, Spend=473.07",
     "confidence": 0.7112042826000912
@@ -443,6 +818,11 @@
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.40, Spend=814.85",
     "confidence": 0.9390217926345883
+  },
+  {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.84, Spend=511.72",
+    "confidence": 0.5433787852705017
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -460,6 +840,11 @@
     "confidence": 0.7422207787210623
   },
   {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.79, Spend=1110.52",
+    "confidence": 0.531811225846226
+  },
+  {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.31, Spend=894.76",
     "confidence": 0.7107859141239826
@@ -468,6 +853,11 @@
     "title": "Low ROAS in campaign Men Signature Soft",
     "evidence_summary": "ROAS=0.97, Spend=438.24",
     "confidence": 0.7648156527992918
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.47, Spend=700.79",
+    "confidence": 0.6767182226152954
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -510,9 +900,19 @@
     "confidence": 0.870800030819421
   },
   {
+    "title": "Low ROAS in campaign Men Signature Soft",
+    "evidence_summary": "ROAS=0.07, Spend=852.55",
+    "confidence": 0.6424159837794386
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.62, Spend=796.31",
     "confidence": 0.9181506610241108
+  },
+  {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.75, Spend=609.08",
+    "confidence": 0.5686646889601624
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -525,6 +925,11 @@
     "confidence": 0.8323874118550294
   },
   {
+    "title": "Low ROAS in campaign MEN Signature Sot",
+    "evidence_summary": "ROAS=0.95, Spend=1245.63",
+    "confidence": 0.551561619907685
+  },
+  {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.52, Spend=255.0",
     "confidence": 0.8675317556808116
@@ -535,6 +940,16 @@
     "confidence": 0.7305390632714426
   },
   {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.72, Spend=554.55",
+    "confidence": 0.5366410852963397
+  },
+  {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.28, Spend=882.07",
+    "confidence": 0.5778342849916822
+  },
+  {
     "title": "Low ROAS in campaign MEN  Signature  Soft",
     "evidence_summary": "ROAS=0.78, Spend=1319.13",
     "confidence": 0.9372687170663494
@@ -543,6 +958,26 @@
     "title": "Low ROAS in campaign MEN  Signature  Soft",
     "evidence_summary": "ROAS=0.57, Spend=507.06",
     "confidence": 0.8408322199047095
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signa-ure Soft",
+    "evidence_summary": "ROAS=0.90, Spend=653.05",
+    "confidence": 0.6388639585799545
+  },
+  {
+    "title": "Low ROAS in campaign men sig ature soft",
+    "evidence_summary": "ROAS=0.24, Spend=609.56",
+    "confidence": 0.5461406879750584
+  },
+  {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.08, Spend=277.87",
+    "confidence": 0.5479203685014603
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.20, Spend=729.8",
+    "confidence": 0.5087822271713596
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -561,6 +996,11 @@
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.59, Spend=576.28",
+    "confidence": 0.6316438825764731
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.85, Spend=575.27",
     "confidence": 0.8251762180819217
   },
@@ -570,14 +1010,34 @@
     "confidence": 0.8833149352797499
   },
   {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.56, Spend=192.53",
+    "confidence": 0.5103672366974982
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.72, Spend=274.82",
     "confidence": 0.8012864491999904
   },
   {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.68, Spend=912.41",
+    "confidence": 0.6806901656818194
+  },
+  {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.55, Spend=566.56",
     "confidence": 0.7406277697312109
+  },
+  {
+    "title": "Low ROAS in campaign Men Signature Soft",
+    "evidence_summary": "ROAS=0.64, Spend=824.99",
+    "confidence": 0.5735163596998808
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.10, Spend=196.87",
+    "confidence": 0.6269795563917211
   },
   {
     "title": "Low ROAS in campaign Men Signature Soft",
@@ -590,6 +1050,11 @@
     "confidence": 0.8996868896526784
   },
   {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.77, Spend=659.38",
+    "confidence": 0.5153192270684982
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.72, Spend=1143.23",
     "confidence": 0.7552001943846336
@@ -600,6 +1065,16 @@
     "confidence": 0.7928838441591297
   },
   {
+    "title": "Low ROAS in campaign MEN  Signture  Soft",
+    "evidence_summary": "ROAS=0.33, Spend=448.31",
+    "confidence": 0.5198652475620137
+  },
+  {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.32, Spend=374.71",
+    "confidence": 0.6087595428418666
+  },
+  {
     "title": "Low ROAS in campaign MEN SIGATURE SOFT",
     "evidence_summary": "ROAS=0.36, Spend=263.7",
     "confidence": 0.837968488376865
@@ -608,6 +1083,11 @@
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.22, Spend=557.84",
     "confidence": 0.9205822517008535
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.53, Spend=152.66",
+    "confidence": 0.5406222081173212
   },
   {
     "title": "Low ROAS in campaign MEN_Signature_S ft",
@@ -630,14 +1110,44 @@
     "confidence": 0.8274336753828693
   },
   {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.96, Spend=719.62",
+    "confidence": 0.6324805527119053
+  },
+  {
     "title": "Low ROAS in campaign Men Signature Soft",
     "evidence_summary": "ROAS=0.13, Spend=969.1",
     "confidence": 0.902862130002303
   },
   {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.07, Spend=281.72",
+    "confidence": 0.5680372010935465
+  },
+  {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.54, Spend=468.35",
+    "confidence": 0.6142002198267097
+  },
+  {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.21, Spend=1113.19",
     "confidence": 0.81964360873503
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.90, Spend=139.85",
+    "confidence": 0.6050969021975103
+  },
+  {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.97, Spend=336.4",
+    "confidence": 0.5090283846221102
+  },
+  {
+    "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.72, Spend=958.49",
+    "confidence": 0.6538022673442374
   },
   {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
@@ -650,14 +1160,34 @@
     "confidence": 0.892473031383298
   },
   {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.66, Spend=162.3",
+    "confidence": 0.6708139437088858
+  },
+  {
     "title": "Low ROAS in campaign MEN SIGNATURE SOFT",
     "evidence_summary": "ROAS=0.50, Spend=533.24",
     "confidence": 0.9139107841398413
   },
   {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.83, Spend=875.54",
+    "confidence": 0.5502993068805039
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.77, Spend=270.28",
     "confidence": 0.8376400454139956
+  },
+  {
+    "title": "Low ROAS in campaign Men Signature Soft",
+    "evidence_summary": "ROAS=0.38, Spend=418.53",
+    "confidence": 0.5955720104497437
+  },
+  {
+    "title": "Low ROAS in campaign men signature soft",
+    "evidence_summary": "ROAS=0.26, Spend=601.07",
+    "confidence": 0.6059284778280905
   },
   {
     "title": "Low ROAS in campaign men signature soft",
@@ -670,9 +1200,34 @@
     "confidence": 0.8952242903041784
   },
   {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.76, Spend=778.53",
+    "confidence": 0.6947895275671507
+  },
+  {
+    "title": "Low ROAS in campaign MEN_Signature_Soft",
+    "evidence_summary": "ROAS=0.59, Spend=258.58",
+    "confidence": 0.5559265755482455
+  },
+  {
     "title": "Low ROAS in campaign men signature soft",
     "evidence_summary": "ROAS=0.10, Spend=253.41",
     "confidence": 0.7093802442643098
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.73, Spend=1106.15",
+    "confidence": 0.5956401441960195
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.64, Spend=550.15",
+    "confidence": 0.6919203357060806
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.86, Spend=811.41",
+    "confidence": 0.594046895964616
   },
   {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
@@ -680,14 +1235,34 @@
     "confidence": 0.9398213670441615
   },
   {
+    "title": "Low ROAS in campaign MEN-SIGNATURE SOFT",
+    "evidence_summary": "ROAS=0.59, Spend=1291.57",
+    "confidence": 0.5052845597683694
+  },
+  {
     "title": "Low ROAS in campaign MEN_Signature_Soft",
     "evidence_summary": "ROAS=0.82, Spend=1100.27",
     "confidence": 0.9352875228700954
   },
   {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.68, Spend=151.14",
+    "confidence": 0.551118074215027
+  },
+  {
     "title": "Low ROAS in campaign MEN  Signature  Soft",
     "evidence_summary": "ROAS=0.70, Spend=276.01",
     "confidence": 0.749222940352078
+  },
+  {
+    "title": "Low ROAS in campaign MEN  Signature  Soft",
+    "evidence_summary": "ROAS=0.51, Spend=307.23",
+    "confidence": 0.6613558038287207
+  },
+  {
+    "title": "Low ROAS in campaign MEN Signature Soft",
+    "evidence_summary": "ROAS=0.58, Spend=175.59",
+    "confidence": 0.528736727240354
   },
   {
     "title": "Low ROAS in campaign MEN Signature Soft",
@@ -720,9 +1295,29 @@
     "confidence": 0.9248000006177641
   },
   {
+    "title": "Low ROAS in campaign MEN -ignature Soft",
+    "evidence_summary": "ROAS=0.57, Spend=897.95",
+    "confidence": 0.6574383147289515
+  },
+  {
     "title": "Low ROAS in campaign MEN Signature Soft",
     "evidence_summary": "ROAS=0.15, Spend=373.73",
     "confidence": 0.7675013727027311
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.44, Spend=332.94",
+    "confidence": 0.5271741072518169
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN FIT & LIFT",
+    "evidence_summary": "ROAS=0.69, Spend=931.41",
+    "confidence": 0.6397021604892408
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.88, Spend=722.26",
+    "confidence": 0.6617404298201061
   },
   {
     "title": "Low ROAS in campaign Women Fit & Lift",
@@ -738,6 +1333,11 @@
     "title": "Low ROAS in campaign Women Fit & Lift",
     "evidence_summary": "ROAS=0.23, Spend=942.94",
     "confidence": 0.810498694352378
+  },
+  {
+    "title": "Low ROAS in campaign Women_Fit_&_Lift",
+    "evidence_summary": "ROAS=0.37, Spend=640.16",
+    "confidence": 0.6246471943874907
   },
   {
     "title": "Low ROAS in campaign WOM N FIT & LIFT",
@@ -771,8 +1371,18 @@
   },
   {
     "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.63, Spend=331.09",
+    "confidence": 0.5554245135617517
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
     "evidence_summary": "ROAS=0.36, Spend=1093.22",
     "confidence": 0.7872280215363118
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit and Lift",
+    "evidence_summary": "ROAS=0.14, Spend=691.66",
+    "confidence": 0.6892049111674228
   },
   {
     "title": "Low ROAS in campaign WOMEN FIT & -IFT",
@@ -785,9 +1395,24 @@
     "confidence": 0.8247258909571137
   },
   {
+    "title": "Low ROAS in campaign Women  Fit  &  Lift",
+    "evidence_summary": "ROAS=0.17, Spend=128.16",
+    "confidence": 0.6950272010392209
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.87, Spend=445.49",
+    "confidence": 0.5299443991812066
+  },
+  {
     "title": "Low ROAS in campaign Women Fit & Lift",
     "evidence_summary": "ROAS=0.27, Spend=767.61",
     "confidence": 0.7290940850700287
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN FIT & LIFT",
+    "evidence_summary": "ROAS=0.35, Spend=774.63",
+    "confidence": 0.6276759305608107
   },
   {
     "title": "Low ROAS in campaign Women Fit & Lift",
@@ -796,8 +1421,53 @@
   },
   {
     "title": "Low ROAS in campaign Women  Fit  &  Lift",
+    "evidence_summary": "ROAS=0.60, Spend=1056.66",
+    "confidence": 0.6764664030589741
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit and Lift",
+    "evidence_summary": "ROAS=0.93, Spend=1020.31",
+    "confidence": 0.6675292054729618
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit and Lift",
+    "evidence_summary": "ROAS=0.14, Spend=584.94",
+    "confidence": 0.6398202406623653
+  },
+  {
+    "title": "Low ROAS in campaign Women_Fit_&_Lift",
+    "evidence_summary": "ROAS=0.12, Spend=678.65",
+    "confidence": 0.5089584738690847
+  },
+  {
+    "title": "Low ROAS in campaign women fit & lift",
+    "evidence_summary": "ROAS=0.87, Spend=575.68",
+    "confidence": 0.6738521154169375
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.18, Spend=444.31",
+    "confidence": 0.6024907552871892
+  },
+  {
+    "title": "Low ROAS in campaign Women_Fit_&_Lift",
+    "evidence_summary": "ROAS=0.66, Spend=419.39",
+    "confidence": 0.6941769489145575
+  },
+  {
+    "title": "Low ROAS in campaign Women  Fit  &  Lift",
     "evidence_summary": "ROAS=0.78, Spend=669.72",
     "confidence": 0.8086537604155761
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit and Lift",
+    "evidence_summary": "ROAS=0.50, Spend=574.46",
+    "confidence": 0.6919926946361722
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN FIT & LIFT",
+    "evidence_summary": "ROAS=0.81, Spend=796.28",
+    "confidence": 0.6309213067332063
   },
   {
     "title": "Low ROAS in campaign Women_Fit_&_Lift",
@@ -815,9 +1485,19 @@
     "confidence": 0.8168551691718047
   },
   {
+    "title": "Low ROAS in campaign Women Fit and Lift",
+    "evidence_summary": "ROAS=0.74, Spend=803.05",
+    "confidence": 0.5115843563978638
+  },
+  {
     "title": "Low ROAS in campaign Women Fit & Lift",
     "evidence_summary": "ROAS=0.74, Spend=781.97",
     "confidence": 0.7620622702491368
+  },
+  {
+    "title": "Low ROAS in campaign Women_Fit_&_Lift",
+    "evidence_summary": "ROAS=0.79, Spend=585.59",
+    "confidence": 0.5838767936848506
   },
   {
     "title": "Low ROAS in campaign WOMEN FIT & LIFT",
@@ -828,6 +1508,16 @@
     "title": "Low ROAS in campaign women fit & lift",
     "evidence_summary": "ROAS=0.82, Spend=520.65",
     "confidence": 0.8363103232150622
+  },
+  {
+    "title": "Low ROAS in campaign Women_Fit_&_Lift",
+    "evidence_summary": "ROAS=0.94, Spend=100.67",
+    "confidence": 0.6361613481027691
+  },
+  {
+    "title": "Low ROAS in campaign women fit & lift",
+    "evidence_summary": "ROAS=0.44, Spend=643.85",
+    "confidence": 0.6249287149554228
   },
   {
     "title": "Low ROAS in campaign Women Fit & Lift",
@@ -845,9 +1535,64 @@
     "confidence": 0.7400606515623704
   },
   {
+    "title": "Low ROAS in campaign Women_-it_&_Lift",
+    "evidence_summary": "ROAS=0.66, Spend=674.61",
+    "confidence": 0.6521301762171314
+  },
+  {
+    "title": "Low ROAS in campaign women fit & lift",
+    "evidence_summary": "ROAS=0.39, Spend=434.93",
+    "confidence": 0.6423669240161384
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.90, Spend=437.62",
+    "confidence": 0.5194825028042885
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.42, Spend=898.86",
+    "confidence": 0.5309355254699627
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.06, Spend=851.37",
+    "confidence": 0.6043798179085357
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.67, Spend=268.77",
+    "confidence": 0.5607520938433597
+  },
+  {
     "title": "Low ROAS in campaign Women Fit & ift",
     "evidence_summary": "ROAS=0.28, Spend=703.44",
     "confidence": 0.7878928178541584
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.91, Spend=749.62",
+    "confidence": 0.6997458468894477
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.90, Spend=846.56",
+    "confidence": 0.5450903119377305
+  },
+  {
+    "title": "Low ROAS in campaign Women_Fit_&_Lift",
+    "evidence_summary": "ROAS=0.27, Spend=834.27",
+    "confidence": 0.632707643040976
+  },
+  {
+    "title": "Low ROAS in campaign Women Fit & Lift",
+    "evidence_summary": "ROAS=0.49, Spend=422.47",
+    "confidence": 0.5840068345976521
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.79, Spend=709.63",
+    "confidence": 0.5579068138362817
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
@@ -856,8 +1601,28 @@
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.88, Spend=437.93",
+    "confidence": 0.6914971471165542
+  },
+  {
+    "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
+    "evidence_summary": "ROAS=0.03, Spend=571.26",
+    "confidence": 0.5398393304407475
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.43, Spend=693.26",
     "confidence": 0.8144989964706028
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.26, Spend=717.04",
+    "confidence": 0.5349601920427628
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.38, Spend=190.11",
+    "confidence": 0.6152522554227202
   },
   {
     "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
@@ -873,6 +1638,16 @@
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.92, Spend=415.88",
     "confidence": 0.7783011238369086
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.37, Spend=559.13",
+    "confidence": 0.609377562025073
+  },
+  {
+    "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
+    "evidence_summary": "ROAS=0.72, Spend=825.22",
+    "confidence": 0.6530398044611935
   },
   {
     "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
@@ -920,6 +1695,11 @@
     "confidence": 0.7766381324467115
   },
   {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.87, Spend=800.51",
+    "confidence": 0.6044566034659321
+  },
+  {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.91, Spend=201.85",
     "confidence": 0.7613411453897294
@@ -928,6 +1708,16 @@
     "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
     "evidence_summary": "ROAS=0.63, Spend=881.83",
     "confidence": 0.7510181140196697
+  },
+  {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.94, Spend=903.29",
+    "confidence": 0.6486877512590759
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOL COLORS DROP",
+    "evidence_summary": "ROAS=0.55, Spend=388.09",
+    "confidence": 0.5122878955538361
   },
   {
     "title": "Low ROAS in campaign men bold colors drop",
@@ -955,9 +1745,44 @@
     "confidence": 0.7136131857759069
   },
   {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.55, Spend=880.98",
+    "confidence": 0.6139150393895063
+  },
+  {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.26, Spend=753.75",
+    "confidence": 0.5107150495463111
+  },
+  {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.74, Spend=884.96",
+    "confidence": 0.5183503162297272
+  },
+  {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.77, Spend=592.1",
     "confidence": 0.8205025320170893
+  },
+  {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.67, Spend=823.77",
+    "confidence": 0.5763810319820929
+  },
+  {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.00, Spend=459.84",
+    "confidence": 0.5908875120967625
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD  OLORS DROP",
+    "evidence_summary": "ROAS=0.41, Spend=728.66",
+    "confidence": 0.5485372552597673
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.83, Spend=713.29",
+    "confidence": 0.5730531377584426
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
@@ -975,9 +1800,29 @@
     "confidence": 0.8571140778133369
   },
   {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.21, Spend=1027.46",
+    "confidence": 0.6677381521333221
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.30, Spend=691.83",
+    "confidence": 0.5689688519552344
+  },
+  {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.80, Spend=755.12",
     "confidence": 0.828455401565148
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.51, Spend=917.88",
+    "confidence": 0.5614112496786132
+  },
+  {
+    "title": "Low ROAS in campaign M-n Bold Colors Drop",
+    "evidence_summary": "ROAS=0.71, Spend=929.05",
+    "confidence": 0.5932344995964176
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
@@ -985,9 +1830,44 @@
     "confidence": 0.8330731161153817
   },
   {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.45, Spend=592.4",
+    "confidence": 0.6669300389373228
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.95, Spend=804.5",
+    "confidence": 0.551855922656714
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.92, Spend=529.11",
+    "confidence": 0.6046341972095733
+  },
+  {
     "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
     "evidence_summary": "ROAS=0.20, Spend=316.36",
     "confidence": 0.7413435239636201
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.40, Spend=378.61",
+    "confidence": 0.6596732784069155
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.96, Spend=252.51",
+    "confidence": 0.5780857223767791
+  },
+  {
+    "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
+    "evidence_summary": "ROAS=0.88, Spend=722.68",
+    "confidence": 0.5884422484156195
+  },
+  {
+    "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
+    "evidence_summary": "ROAS=0.25, Spend=528.35",
+    "confidence": 0.5974429017128754
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
@@ -1031,13 +1911,33 @@
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.66, Spend=530.08",
+    "confidence": 0.590049989131224
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.13, Spend=569.04",
     "confidence": 0.7761566142252871
+  },
+  {
+    "title": "Low ROAS in campaign Men B-ld Colors Drop",
+    "evidence_summary": "ROAS=0.91, Spend=356.25",
+    "confidence": 0.6927292969607617
+  },
+  {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.27, Spend=561.08",
+    "confidence": 0.5862760463869378
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.88, Spend=313.9",
     "confidence": 0.8758414737144644
+  },
+  {
+    "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
+    "evidence_summary": "ROAS=0.70, Spend=889.45",
+    "confidence": 0.6654274078063839
   },
   {
     "title": "Low ROAS in campaign men bold colors drop",
@@ -1070,9 +1970,19 @@
     "confidence": 0.8842684047002312
   },
   {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.63, Spend=991.85",
+    "confidence": 0.5325740149268072
+  },
+  {
     "title": "Low ROAS in campaign MEN BLD COLORS DROP",
     "evidence_summary": "ROAS=0.40, Spend=248.65",
     "confidence": 0.8704599787911254
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.70, Spend=1228.9",
+    "confidence": 0.5694194567610302
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
@@ -1095,14 +2005,34 @@
     "confidence": 0.774822171653304
   },
   {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.55, Spend=502.95",
+    "confidence": 0.5540063918440173
+  },
+  {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.67, Spend=218.66",
     "confidence": 0.8225510883709077
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.62, Spend=824.85",
+    "confidence": 0.5944138795840554
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.60, Spend=721.42",
     "confidence": 0.9100096769149923
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.64, Spend=185.2",
+    "confidence": 0.690848488251911
+  },
+  {
+    "title": "Low ROAS in campaign Men BoldColors Drop",
+    "evidence_summary": "ROAS=0.51, Spend=907.97",
+    "confidence": 0.6948958381954962
   },
   {
     "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
@@ -1120,9 +2050,24 @@
     "confidence": 0.9316468350905756
   },
   {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.41, Spend=932.94",
+    "confidence": 0.6956339609218121
+  },
+  {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.64, Spend=689.94",
+    "confidence": 0.6064161271722245
+  },
+  {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.94, Spend=539.48",
     "confidence": 0.8955448940208728
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.17, Spend=702.19",
+    "confidence": 0.6744113734414121
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
@@ -1135,6 +2080,16 @@
     "confidence": 0.829224411802842
   },
   {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.25, Spend=287.26",
+    "confidence": 0.6956304880452698
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
+    "evidence_summary": "ROAS=0.83, Spend=542.02",
+    "confidence": 0.6949717830893152
+  },
+  {
     "title": "Low ROAS in campaign men bold colors drop",
     "evidence_summary": "ROAS=0.55, Spend=646.85",
     "confidence": 0.9366892347007374
@@ -1145,9 +2100,24 @@
     "confidence": 0.774882788956765
   },
   {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=1.00, Spend=1032.34",
+    "confidence": 0.5231899943041017
+  },
+  {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.47, Spend=639.91",
+    "confidence": 0.5591573508895714
+  },
+  {
     "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
     "evidence_summary": "ROAS=0.00, Spend=819.83",
     "confidence": 0.8843203952549776
+  },
+  {
+    "title": "Low ROAS in campaign MEN BOLD COL RS DROP",
+    "evidence_summary": "ROAS=0.28, Spend=656.16",
+    "confidence": 0.665838283508292
   },
   {
     "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
@@ -1161,8 +2131,18 @@
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.79, Spend=386.95",
+    "confidence": 0.6427060711885119
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.49, Spend=316.77",
     "confidence": 0.7785105730416867
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.23, Spend=452.93",
+    "confidence": 0.5569640730157354
   },
   {
     "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
@@ -1180,9 +2160,19 @@
     "confidence": 0.8064842245107472
   },
   {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.78, Spend=849.84",
+    "confidence": 0.6724638246579306
+  },
+  {
     "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
     "evidence_summary": "ROAS=0.75, Spend=685.84",
     "confidence": 0.937180272728974
+  },
+  {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.83, Spend=379.37",
+    "confidence": 0.6631293842463875
   },
   {
     "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
@@ -1193,6 +2183,16 @@
     "title": "Low ROAS in campaign MEN BOLD COLORS DROP",
     "evidence_summary": "ROAS=0.41, Spend=863.33",
     "confidence": 0.8974430905575219
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.93, Spend=286.27",
+    "confidence": 0.5693923489080223
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.43, Spend=154.04",
+    "confidence": 0.5682011232896175
   },
   {
     "title": "Low ROAS in campaign Men_Bold_Colors_Drop",
@@ -1206,8 +2206,23 @@
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.67, Spend=728.7",
+    "confidence": 0.6244798876403233
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.67, Spend=675.36",
     "confidence": 0.7669728026939923
+  },
+  {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.25, Spend=914.46",
+    "confidence": 0.6855745749694402
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.15, Spend=662.97",
+    "confidence": 0.5242782841367377
   },
   {
     "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
@@ -1226,6 +2241,16 @@
   },
   {
     "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.71, Spend=668.99",
+    "confidence": 0.5878005446289138
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
+    "evidence_summary": "ROAS=0.38, Spend=643.74",
+    "confidence": 0.66387371942106
+  },
+  {
+    "title": "Low ROAS in campaign Men Bold Colors Drop",
     "evidence_summary": "ROAS=0.44, Spend=618.28",
     "confidence": 0.9253343215274643
   },
@@ -1235,9 +2260,24 @@
     "confidence": 0.9399368909533261
   },
   {
+    "title": "Low ROAS in campaign men bold colors drop",
+    "evidence_summary": "ROAS=0.76, Spend=709.25",
+    "confidence": 0.5163642538999712
+  },
+  {
+    "title": "Low ROAS in campaign Men  Bold  Colors  Drop",
+    "evidence_summary": "ROAS=0.94, Spend=768.41",
+    "confidence": 0.5764491194564004
+  },
+  {
     "title": "Low ROAS in campaign women cotton classics",
     "evidence_summary": "ROAS=1.00, Spend=697.79",
     "confidence": 0.752028957670043
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Cotton Classics",
+    "evidence_summary": "ROAS=0.93, Spend=444.26",
+    "confidence": 0.6093707335494711
   },
   {
     "title": "Low ROAS in campaign WOMEN COTTON CLASSICS",
@@ -1285,6 +2325,16 @@
     "confidence": 0.8271781661082958
   },
   {
+    "title": "Low ROAS in campaign WOMEN Cotton Classis",
+    "evidence_summary": "ROAS=0.91, Spend=761.06",
+    "confidence": 0.5307803911325448
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN  Cotton  Classics",
+    "evidence_summary": "ROAS=0.79, Spend=575.47",
+    "confidence": 0.6430636714925233
+  },
+  {
     "title": "Low ROAS in campaign WOMEN_Cotton_Classics",
     "evidence_summary": "ROAS=0.79, Spend=397.53",
     "confidence": 0.9209217710314532
@@ -1293,6 +2343,16 @@
     "title": "Low ROAS in campaign  OMEN COTTON CLASSICS",
     "evidence_summary": "ROAS=0.32, Spend=394.93",
     "confidence": 0.9258194193037267
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Cotton Classics",
+    "evidence_summary": "ROAS=0.11, Spend=646.95",
+    "confidence": 0.6277477222749814
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Cotton Classics",
+    "evidence_summary": "ROAS=0.48, Spend=301.5",
+    "confidence": 0.5366339728051106
   },
   {
     "title": "Low ROAS in campaign women co ton classics",
@@ -1305,6 +2365,11 @@
     "confidence": 0.9452892853538042
   },
   {
+    "title": "Low ROAS in campaign WOMEN  Cotton  Classics",
+    "evidence_summary": "ROAS=0.68, Spend=979.75",
+    "confidence": 0.6867615540225289
+  },
+  {
     "title": "Low ROAS in campaign WOMEN COTTON CLASSICS",
     "evidence_summary": "ROAS=0.84, Spend=755.39",
     "confidence": 0.9384760310981775
@@ -1313,6 +2378,16 @@
     "title": "Low ROAS in campaign WOMEN  Cotton  Classics",
     "evidence_summary": "ROAS=0.99, Spend=1142.27",
     "confidence": 0.8449440456775283
+  },
+  {
+    "title": "Low ROAS in campaign WOMEN Cotton Classics",
+    "evidence_summary": "ROAS=0.29, Spend=473.36",
+    "confidence": 0.5555217516711676
+  },
+  {
+    "title": "Low ROAS in campaign women cotton classics",
+    "evidence_summary": "ROAS=0.40, Spend=745.12",
+    "confidence": 0.5648463354059151
   },
   {
     "title": "Low ROAS in campaign Men Premium Modal",
@@ -1325,9 +2400,29 @@
     "confidence": 0.7313669368185362
   },
   {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.89, Spend=476.8",
+    "confidence": 0.6204459022079669
+  },
+  {
     "title": "Low ROAS in campaign MEN PREMIUM MODAL",
     "evidence_summary": "ROAS=0.51, Spend=640.76",
     "confidence": 0.9015404537124421
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.65, Spend=450.72",
+    "confidence": 0.5148207064172236
+  },
+  {
+    "title": "Low ROAS in campaign Men  Premium  Modal",
+    "evidence_summary": "ROAS=0.72, Spend=850.69",
+    "confidence": 0.6677916082308193
+  },
+  {
+    "title": "Low ROAS in campaign MEN PREMIUM MODAL",
+    "evidence_summary": "ROAS=0.25, Spend=556.86",
+    "confidence": 0.6485842314519886
   },
   {
     "title": "Low ROAS in campaign Men Premium Modal",
@@ -1340,9 +2435,34 @@
     "confidence": 0.926122372908763
   },
   {
+    "title": "Low ROAS in campaign Men  Premium  Modal",
+    "evidence_summary": "ROAS=0.96, Spend=565.04",
+    "confidence": 0.533506905057176
+  },
+  {
+    "title": "Low ROAS in campaign Men_Premium_Modal",
+    "evidence_summary": "ROAS=0.79, Spend=825.66",
+    "confidence": 0.5774111491856054
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.81, Spend=669.48",
+    "confidence": 0.5390423157664628
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.47, Spend=132.02",
+    "confidence": 0.5766051187111865
+  },
+  {
     "title": "Low ROAS in campaign Men Premium Modal",
     "evidence_summary": "ROAS=0.48, Spend=421.33",
     "confidence": 0.7448457816668071
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.67, Spend=572.43",
+    "confidence": 0.638036750874166
   },
   {
     "title": "Low ROAS in campaign Men_Premium_Modal",
@@ -1361,6 +2481,11 @@
   },
   {
     "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.39, Spend=716.93",
+    "confidence": 0.51352645979507
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
     "evidence_summary": "ROAS=0.34, Spend=593.07",
     "confidence": 0.8942586982936389
   },
@@ -1373,6 +2498,16 @@
     "title": "Low ROAS in campaign Men Premium Modal",
     "evidence_summary": "ROAS=0.74, Spend=202.6",
     "confidence": 0.7656516941367405
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.41, Spend=543.06",
+    "confidence": 0.6946892164518198
+  },
+  {
+    "title": "Low ROAS in campaign Men Prem um Modal",
+    "evidence_summary": "ROAS=0.33, Spend=477.73",
+    "confidence": 0.5888935321649506
   },
   {
     "title": "Low ROAS in campaign men premium modal",
@@ -1391,6 +2526,16 @@
   },
   {
     "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.18, Spend=703.04",
+    "confidence": 0.5747911522222087
+  },
+  {
+    "title": "Low ROAS in campaign MEN PREMIUM MODAL",
+    "evidence_summary": "ROAS=0.93, Spend=682.2",
+    "confidence": 0.6634223808661484
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
     "evidence_summary": "ROAS=0.67, Spend=245.74",
     "confidence": 0.7220975444370651
   },
@@ -1405,6 +2550,11 @@
     "confidence": 0.7498479983466699
   },
   {
+    "title": "Low ROAS in campaign Men_Premium_Modal",
+    "evidence_summary": "ROAS=0.00, Spend=428.85",
+    "confidence": 0.5567901262758718
+  },
+  {
     "title": "Low ROAS in campaign men premium modal",
     "evidence_summary": "ROAS=0.39, Spend=585.18",
     "confidence": 0.8461521839937007
@@ -1416,8 +2566,23 @@
   },
   {
     "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.76, Spend=279.43",
+    "confidence": 0.6690115988265904
+  },
+  {
+    "title": "Low ROAS in campaign MEN PREMIUM MODAL",
+    "evidence_summary": "ROAS=0.71, Spend=209.68",
+    "confidence": 0.6312411984873326
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
     "evidence_summary": "ROAS=0.30, Spend=812.21",
     "confidence": 0.8863592617664607
+  },
+  {
+    "title": "Low ROAS in campaign Men Premium Modal",
+    "evidence_summary": "ROAS=0.60, Spend=1006.62",
+    "confidence": 0.5576675101179696
   },
   {
     "title": "Low ROAS in campaign Women-Studio Sports",
@@ -1430,6 +2595,16 @@
     "confidence": 0.7344880129772271
   },
   {
+    "title": "Low ROAS in campaign Women-Studio Sports",
+    "evidence_summary": "ROAS=0.71, Spend=664.71",
+    "confidence": 0.6041117684661651
+  },
+  {
+    "title": "Low ROAS in campaign Women | Studio Sports",
+    "evidence_summary": "ROAS=0.95, Spend=634.72",
+    "confidence": 0.6649995853015951
+  },
+  {
     "title": "Low ROAS in campaign WOMEN | STUDIO SPORTS",
     "evidence_summary": "ROAS=0.74, Spend=1025.43",
     "confidence": 0.8621927629112863
@@ -1438,6 +2613,11 @@
     "title": "Low ROAS in campaign women | studio sports",
     "evidence_summary": "ROAS=0.72, Spend=306.89",
     "confidence": 0.8756347866463157
+  },
+  {
+    "title": "Low ROAS in campaign women | studio sports",
+    "evidence_summary": "ROAS=0.94, Spend=360.27",
+    "confidence": 0.5139285682699883
   },
   {
     "title": "Low ROAS in campaign Women  |  Studio  Sports",
