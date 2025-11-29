@@ -1,107 +1,130 @@
 Kasparro Agentic Facebook Ads Performance Analyst — AI Agent System
-The Multi-Agent Marketing Analytics System is an advanced AI-driven solution engineered to autonomously diagnose and optimize Facebook Ads performance. This project integrates multiple specialized agents that collaborate to deliver a comprehensive end-to-end analytics workflow. Its primary purpose is to monitor campaign trends, interpret fluctuations in Return on Ad Spend (ROAS), and uncover the underlying factors influencing these changes—whether related to audience behavior, creative fatigue, targeting inconsistencies, or shifts in market dynamics.
 
+The Kasparro Agentic Facebook Ads Performance Analyst is a multi-agent AI system designed to autonomously diagnose and optimize Facebook Ads performance. It integrates a set of specialized agents that work together to monitor campaign-level metrics, interpret fluctuations in Return on Ad Spend (ROAS), and identify underlying performance drivers such as creative fatigue, audience saturation, targeting inconsistencies, or shifts in market dynamics. The system follows a modular and scalable architecture where each agent is responsible for a single well-defined task, ensuring clean separation of concerns and enabling easy extensibility. A central orchestrator coordinates these agents to execute end-to-end analytical workflows that are both diagnostic and prescriptive.
 
+In addition to diagnosing ROAS trends, the system generates actionable creative recommendations—such as improved messaging angles, headline variations, and call-to-action enhancements—based on patterns found in the historical dataset. This ensures not only analytical depth but also practical decision-making support that directly impacts marketing ROI. By automating complex analysis steps, the project demonstrates how agentic AI systems can augment performance marketing teams with structured, data-driven intelligence.
 
-Kasparro Agentic Facebook Ads Performance Analyst
-The Multi-Agent Marketing Analytics System is an advanced AI-driven solution engineered to autonomously diagnose and optimize Facebook Ads performance. This project integrates multiple specialized agents that collaborate to deliver a comprehensive end-to-end analytics workflow. Its primary purpose is to monitor campaign trends, interpret fluctuations in Return on Ad Spend (ROAS), and uncover the underlying factors influencing these changes—whether related to audience behavior, creative fatigue, targeting inconsistencies, or shifts in market dynamics.
-Built with a modular and scalable architecture, the system ensures clean separation of responsibilities across different agents, enabling efficient planning, structured data processing, insightful performance interpretation, robust evaluation, and intelligent creative recommendation generation. Each agent functions independently yet coordinates seamlessly through a centralized orchestrator, reflecting industry-grade agentic AI design principles.
-In addition to diagnosing performance decline or growth, the system intelligently generates tailored creative recommendations—such as improved headlines, messaging angles, and call-to-action variations—grounded in historical dataset insights. This makes the system not only analytical but also prescriptive, delivering actionable strategies for improving ad engagement and boosting overall marketing ROI. By automating complex ad-diagnosis tasks, the project showcases how agentic AI can significantly enhance digital marketing decision-making and support scalable, data-backed creative optimization Objective The objective of this system is to provide a comprehensive analysis and optimization framework for Facebook ad performance. It is designed to diagnose changes in Return on Ad Spend (ROAS) over time and detect patterns or anomalies in campaign behavior. By identifying key drivers behind performance fluctuations—such as audience fatigue, declining engagement, or underperforming creatives—the system helps advertisers understand the root causes of inefficiencies. Additionally, it generates actionable creative recommendations tailored to campaigns with low click-through rates (CTR), offering improved headlines, messaging angles, and call-to-action variations. These suggestions are grounded in insights extracted from historical campaign data, ensuring that the advice is data-backed, relevant, and directly aligned with improving overall ad effectiveness.
+Objective
 
+The primary objective of this system is to deliver a comprehensive, automated framework for analyzing Facebook Ads performance. It aims to detect ROAS fluctuations, uncover anomalies, identify the most influential performance drivers, and provide targeted recommendations for optimizing campaigns. The system focuses on understanding audience behavior, creative effectiveness, and campaign-level patterns while also suggesting improved creative strategies for campaigns exhibiting low engagement or weak CTR. Collectively, this enables advertisers to make informed, data-backed decisions that result in more effective and profitable ad strategies.
 
+Design Reasoning
+
+The system is intentionally designed using a modular multi-agent architecture, where each agent performs a single specialized function. This simplifies debugging, enhances reproducibility, and makes the system highly scalable for enterprise environments.
+
+The Planner Agent breaks down natural-language queries into executable analytical subtasks.
+
+The Data Agent ensures consistent access to structured datasets while performing cleaning, filtering, and summarization.
+
+The Insight Agent identifies hypotheses that explain observed performance patterns.
+
+The Evaluator Agent measures quantitative validity and assigns confidence levels to insights.
+
+The Creative Generator Agent transforms insights into prescriptive recommendations.
+
+A central orchestrator ensures that execution remains orderly, traceable, and extensible.
+
+This design allows new agents, additional data sources, or advanced models to be integrated smoothly over time without disrupting existing workflows.
+
+Assumptions
+
+The system assumes that datasets provided in the data/ folder are either already cleaned or can be processed automatically by the Data Agent. It also assumes that standard Facebook Ads metrics—such as impressions, CTR, purchases, revenue, and ROAS—are consistently recorded and follow typical naming conventions. The system is optimized for text-based creative analysis and assumes campaigns follow the common Facebook structure of Campaign → Ad Set → Ad. Multimedia content such as images or videos is not analyzed in the current version.
+
+Limitations and Future Improvements
+
+This version does not integrate directly with the Facebook Ads API and instead operates on static or synthetic datasets. Creative recommendations rely on historical trends and may not capture real-time market dynamics. Additionally, the system does not fully address multi-platform or cross-country campaign discrepancies, which may impact accuracy in diverse advertising environments.
+
+Future improvements include adding real-time data integration through the Facebook Ads API, supporting multi-modal creative evaluation (images and videos), implementing robust state-saving and checkpointing for long-running workflows, expanding retry and confidence scoring mechanisms across agents, and integrating schema drift detection to automatically validate new datasets.
 
 Data Description
 
-(1)The project uses synthetic eCommerce and Facebook Ads datasets stored in the data/ folder. Key columns include:
-
-(2)campaign_name, adset_name, date, spend, impressions, clicks, ctr, purchases, revenue, roas, creative_type, creative_message, audience_type, platform, country.
-
-(3)Data includes both ad performance metrics and campaign metadata. Sample datasets are provided for reproducibility.
-
+The system uses synthetic or sample eCommerce and Facebook Ads datasets stored in the data/ directory. These datasets include key performance and targeting columns such as campaign_name, adset_name, date, spend, impressions, clicks, ctr, purchases, revenue, roas, creative_type, creative_message, audience_type, platform, and country. The data includes both performance metrics and metadata, ensuring all agents have the contextual information needed for accurate analysis.
 
 Agent System Architecture
 
-The system follows a modular agent-based design:
+The multi-agent architecture includes the following roles:
 
-Agent	Role
-Planner Agent (planner.py)--->	Decomposes queries into actionable subtasks.
+Planner Agent: Decomposes user queries into structured analytical steps.
 
-Data Agent (data_agent.py)	-->   Loads, cleans, and summarizes datasets.
+Data Agent: Loads, transforms, filters, and summarizes datasets.
 
-Insight Agent (insight_agent.py)--->	Generates hypotheses explaining observed patterns.
+Insight Agent: Identifies key patterns, anomalies, and causes behind ROAS changes.
 
-Evaluator Agent (evaluator.py)--->	Quantitatively validates hypotheses and assigns confidence scores.
+Evaluator Agent: Validates insights with quantitative evidence and provides confidence scoring.
 
-Creative Generator Agent (creative_generator.py)--->	Suggests new creative strategies for low-performing campaigns.
+Creative Generator Agent: Recommends optimized creatives for low-performing campaigns.
 
-The run.py script orchestrates agent interactions, taking user queries as input and producing structured reports.
+The run.py orchestrator coordinates these agents sequentially to produce a comprehensive performance report.
 
 How to Run
 
-Clone the repository:
+To run the system locally, clone the repository and navigate into the project directory:
 
-git clone <repository-url>
-cd kasparro-agentic-fb-analyst-<firstname-lastname>
-
-Install dependencies:
+git clone https://github.com/ali14567899990/kasparro-agentic-fb-analyst-ali-muhammad-ganaie.git
+cd kasparro-agentic-fb-analyst-ali-muhammad-ganaie
+Install all required dependencies:
 
 pip install -r requirements.txt
 
-Run the system with a query:
 
-python src/run.py "Analyze ROAS drop in last 14 days"
+Execute an analysis query:
 
-Output: Generated reports are saved in the reports/ folder. This includes:
+python -m src.run "Analyze ROAS drop in last 14 days"
 
-Step-by-step analysis plan
 
-Key insights and trends
-
-Recommendations to improve ROAS
-
-Example visualizations (if applicable)
-
+All generated insights, evaluation results, and creative recommendations will be saved automatically in the reports/ folder. These include detailed analysis plans, trend explanations, quantified insights, confidence scores, and actionable recommendations.
 
 Example Output
 
 Query: "Analyze ROAS drop in last 14 days"
 
 Sample Insight:
+Low CTR in campaign Women-Studio Sports (confidence: 0.72)
+  - CTR=0.011, Impressions=266100
 
-Observed a 15% ROAS drop on social media campaigns.
+- Low CTR in campaign Women | Studio Sports (confidence: 0.93)
+  - CTR=0.006, Impressions=159662
 
-High-performing ads target audiences aged 25–34.
+- Low CTR in campaign Women_|_Studio_Sports (confidence: 0.86)
+  - CTR=0.008, Impressions=378419
 
-Recommendation: Increase budget for high-performing ad sets and refine targeting for low-performing segments.
+  
+## Creatives
 
-Folder Structure
-
-kasparro-agentic-fb-analyst-ali-muhammad-ganaie/ – This is main project folder. Everything related to the project goes inside this.
-
-data/ – This folder contains all  datasets, both raw and processed. Think of it as the project’s “data warehouse.”
-
-logs/ – Any logs generated during execution, like errors or activity logs, are saved here. Useful for debugging.
-
-prompts/ – Stores prompt templates for  AI agents. Basically, the “instructions” you give to your AI scripts.
-
+- Improve creative for campaign Men ComfortMax Launch � try a stronger hook, clearer CTA, and contrasting thumbnail.
+- Improve creative for campaign Men ComfortMax Launch � try a stronger hook, clearer CTA, and contrasting thumbnail.
+- Improve creative for campaign Men_ComfortMax_Launch � try a stronger hook, clearer CTA, and contrasting thumbnail.
 
 
-reports/ – Any generated reports, insights, or results from  project will go here.
+Project Folder Structure
 
-src/ – This is where all  source code lives. It’s divided into:
+kasparro-agentic-fb-analyst-ali-muhammad-ganaie/     # Main project folder
+│
+├── data/                     # Datasets (raw + processed)
+│
+├── logs/                     # Execution logs for debugging & observability
+│
+├── prompts/                  # Prompt templates for AI agents
+│
+├── reports/                  # Auto-generated analytical reports + insights
+│
+├── src/                      # Source code
+│   ├── agents/               # All autonomous agents
+│   │   ├── planner.py
+│   │   ├── data_agent.py
+│   │   ├── insight_agent.py
+│   │   ├── evaluator.py
+│   │   └── creative_generator.py
+│   │
+│   ├── orchestrator/         # Central controller connecting all agents
+│   │   └── main_orchestrator.py
+│   │
+│   └── utils/                # Utility functions (logging, helpers, retry logic)
+│       └── helpers.py
+│
+├── config/                   # Configuration files (settings, parameters)
+│
+├── README.md                 # Project documentation (this file)
+│
+└── requirements.txt          # Python dependency list
 
-agents/ – Scripts for AI agents, like planner.py, data_agent.py, and insight_agent.py. These are the main components of AI workflow.
-
-orchestrator/ – Scripts that manage and coordinate  agents. For example, main_orchestrator.py controls how everything runs together.
-
-utils/ – Helper functions or utilities that  code uses repeatedly, like helpers.py.
-
-
-
-tests/ – Unit tests to make sure  code works correctly.
-
-config/ – Configuration files, like settings, parameters, or environment variables.
-
-README.md – A project overview. Explains what  project does, how to run it, and any other important details.
-
-requirements.txt – Lists all Python dependencies  project needs, so anyone can set up the environment quickly
